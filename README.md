@@ -5,6 +5,11 @@ Crack Brute all Zip Password (NGGAK SEMUA BISA/NOT ALL CAN) (Semoga Bermanfaat d
 #HOW TO RUN THE SCRIPT?
 ! FOLLOW THE COMMAND!
 
+# 🔑 WORD LIST / PASSWORD TEXT 🛠️
+
+- DOWNLOAD : https://www.mediafire.com/file/on1yu82xrqmb60h/sxpass.txt/file
+
+
 # TERMUX
 
 $ apt update
